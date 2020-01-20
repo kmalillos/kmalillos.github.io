@@ -331,7 +331,7 @@ a.active {
 
 #experience {
     padding: 100px 0;
-    background: #f3f3f3
+    /* background: #f3f3f3 */
 }
 
 .experience-row {
@@ -454,7 +454,7 @@ a.active {
 /* projects section
 ==================================================*/
 
-#projects {
+#portfolio {
     padding: 100px 0;
     background: #f3f3f3
 }
