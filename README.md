@@ -1,2 +1,0 @@
-# kmalillos.github.io
-Portfolio
